@@ -1,1 +1,36 @@
 
+{
+  ".uc-grid": [
+    {
+      "color": "red",
+      "number": 60,
+      "price": "270",
+      "oldprice": "270",
+      "discount": "-7.43%",
+      "logo": "https://midas.gtimg.cn/store_config/1599546007887MVeNUtB6.png",
+      "twoicon": "img/uc.png",
+      "tokenicons": "img/tokens.png"
+    },
+    {
+      "color": "red",
+      "bonus": "+ 25",
+      "number": 300,
+      "price": "2100",
+      "oldprice": "1180",
+      "discount": "-7.41%",
+      "logo": "https://midas.gtimg.cn/store_config/1599546030876PIvqwGaa.png",
+      "twoicon": "img/uc.png",
+      "tokenicons": "img/tokens.png"
+    }
+  ],
+  ".vip-grid": [
+    {
+      "logo": "https://png.pngtree.com/png-vector/20250111/ourmid/pngtree-golden-retriever-dog-pictures-png-image_15147078.png",
+      "types": "Golden Retriever puppy",
+      "number": 3600,
+      "firsticon": "img/uc.png",
+      "oldprice": "5000",
+      "discount": "-28%"
+    }
+  ]
+}
